@@ -1,0 +1,44 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html, body {
+	height: 100%;
+}
+
+body {
+	background-color: #f0f2f3;
+	background-image: url(../assets/handmade_paper.png);
+	background-repeat: repeat;
+/*	line-height: 1.6em; */
+	padding: 0 2em;
+	text-rendering: optimizeLegibility;
+	-webkit-hyphens: auto;
+	-moz-hyphens: auto;
+	-ms-hyphens: auto;
+	-o-hyphens: auto;
+	hyphens: auto;
+	word-wrap: break-word;
+	color: #000000;
+}
+
+h1 {
+	font-size: 400%;
+	color: #000000;
+	font-family: 'Droid Serif';
+	font-style: italic;
+	font-weight: 400;
+}
+
+.everythingplus {
+	display: inline-flex;
+	height: 100%;
+}
+
+.everything {
+/*	line-height: 40em; */
+	margin: auto auto;
+	vertical-align: middle;
+	text-align: center;
+}
