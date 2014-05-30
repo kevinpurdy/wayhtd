@@ -34,6 +34,7 @@ h1 {
 .everythingplus {
 	display: inline-flex;
 	height: 100%;
+	width: 100%;
 }
 
 .everything {
