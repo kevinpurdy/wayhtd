@@ -7,7 +7,7 @@ It looks like this (with Droid Sans installed):
 
 ![Screenshot of wayhtd page, as of 2014.05.30](/assets/wayhtd_screenshot.jpg)
 
-It is just a single image, a tiny CSS file, and an HTML file. It's somewhat responsive. It could probably look nicer.
+The page is just a single image, a tiny CSS file, and an HTML file. It's somewhat responsive. It could probably look nicer.
 
 _Hey, wait a minute,_ you say. _Chrome won't let me set a different file or URL as my "New Tab Page"!_
 
